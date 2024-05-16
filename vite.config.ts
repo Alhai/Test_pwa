@@ -9,7 +9,7 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       manifest: {
-        short_name: 'hello P',
+        theme_color: "#FF0000",
         icons: [
           {
             src: "images/icons/icon-72x72.png",
